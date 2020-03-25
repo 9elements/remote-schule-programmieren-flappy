@@ -1,0 +1,30 @@
+#screen {
+  width: 320px;
+  height: 480px;
+  overflow: hidden;
+  position: relative;
+}
+
+#background {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#tubes {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#game_over {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
